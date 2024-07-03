@@ -1,6 +1,10 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## Technical Skills: 
+#### Languages: Python, SQL (Postgres, MySQL), R
+#### Libraries: Pandas, NumPy, Matplotlib, Seaborn
+#### Software Tools: Microsoft Excel, Google Sheet, Tableau, Power BI, Google Data Studio, Big Query
+#### Other Tools: Git, Zendesk, Google Cloud Platform, VS Code
 
 ## Education
 - University of Ibadan | Ibadan, Nigeria
