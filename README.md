@@ -47,11 +47,11 @@ customer satisfaction.
 
 **Data Analyst Intern (_Jan. 2020 – June 2020_)**
 Hash Analytics Glasgow, Scotland
-• Conducted EDA using Python to uncover patterns and insights related to customer churn behaviour, helping in
+- Conducted EDA using Python to uncover patterns and insights related to customer churn behaviour, helping in
 identifying key churn drivers.
-• Built and maintained predictive models to forecast future churn rates achieving a 90 per cent accuracy
+- Built and maintained predictive models to forecast future churn rates achieving a 90 per cent accuracy
 improvement in churn prediction.
-• Created visualizations and presentations using Tableau and PowerPoint to enhance decision-making, helping
+- Created visualizations and presentations using Tableau and PowerPoint to enhance decision-making, helping
 stakeholders bring down the churn rate by 30 percent.
 
 ## Projects
