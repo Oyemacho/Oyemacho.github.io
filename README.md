@@ -94,8 +94,6 @@ In this project, I analyzed temperature trends in my local city (Ibadan) using S
 [View Project](https://github.com/Oyemacho/Exploring-Weather-Trends-Project-Local-City-Ibadan)
 
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
 ## Publications
 
 - [Tech Writing Blog](https://www.techloy.com/author/emmanuel/)
