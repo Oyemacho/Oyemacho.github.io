@@ -61,14 +61,37 @@ stakeholders bring down the churn rate by 30 percent.
 for 100,000+ state employees
 • Streamlined data ETL pipeline, leading to enhanced payroll accuracy by 40 per cent
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+## Projects
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Predicting Customer Attrition Using Python
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+In this project, I investigated the reasons behind employee attrition at Company X using machine learning. The key questions addressed include why employees are prone to leave, what type of employees are leaving, and which employees are likely to leave next.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+[View Project](https://github.com/Oyemacho/Employee-Attrition/tree/main)
+
+### DVD Rental Analysis Using SQL & Tableau
+
+In this project, I conducted an analysis of a DVD rental store's data using SQL. By querying customer information, film details, and rental records, I was able to uncover valuable insights which I visualized with Tableau.
+
+[View Project](https://github.com/Oyemacho/SQL-Project-DVD-Rental-Analysis-)
+
+### Prediction of Medical Appointment Attendance Using Python
+
+This project investigates a dataset containing information on 100,000 medical appointments in Brazil, focusing on whether patients attended their scheduled appointments and how it impacted treatment outcomes.
+
+[View Project](https://github.com/Oyemacho/Investigate-a-Dataset-Project---No-show-appointment)
+
+### Data Scraping and Analysis of Dog Ratings on Twitter Using Tweepy
+
+In this project, I performed data scraping and analysis of dog ratings on Twitter using Tweepy to uncover trends and insights within the dataset.
+
+[View Project](https://github.com/Oyemacho/Data-Scraping-and-Analysis-of-Dog-Ratings)
+
+### Exploring Weather Trends Using Excel and SQL
+
+In this project, I analyzed temperature trends in my local city (Ibadan) using SQL and Google Sheets.
+
+[View Project](https://github.com/Oyemacho/Exploring-Weather-Trends-Project-Local-City-Ibadan)
 
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
